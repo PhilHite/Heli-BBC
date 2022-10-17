@@ -1,5 +1,5 @@
 # HeliBBC
-HELI 1.92 By Phil Hite 2021
+HELI 1.93 By Phil Hite 2021
 A Freeware Game for the BBC Micro Model B 32K
 
 Build the Bridge
@@ -49,4 +49,4 @@ http://bbcmicro.co.uk                       The Complete BBC Games Archive
 https://s3-eu-west-1.amazonaws.com/plhite.web/bbc/index.html
 phil_hite@hotmail.com
 
-28 May 2022
+17 October 2022
